@@ -9,6 +9,8 @@
 #include "CalExpression.h"
 #include "Fractal.h"
 #include "StringNumSort.h"
+#include "TeamScale.h"
+#include "SpiralMatrix.h"
 
 
 int main() {
@@ -20,6 +22,8 @@ int main() {
 //    dancerPair();
 //    calExpression();
 //    fractal();
-    stringNumSort();
+//    stringNumSort();
+//    teamScale();
+    spiralMatrix();
     return 0;
 }
